@@ -1,4 +1,5 @@
 .DS_Store
 *.ai
 *.psd
-: node_modules
+node_modules
+*.eps
